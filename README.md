@@ -1,21 +1,16 @@
-# 📂 Downloads Cleaner
+# Downloads Cleaner
 
-A simple Python tool that automatically organizes your **Downloads** folder into categories.
+A simple Python tool that automatically organizes your Downloads folder into categories.
 
-## ✨ Features
+## Features
 
-- Sorts files into folders:
-  - Images
-  - Documents
-  - Videos
-  - Music
-  - Archives
-  - Programs
-- Automatically creates folders
-- Prevents file overwriting
-- Lightweight and dependency-free
+- Organizes files by type
+- Creates folders automatically
+- Prevents overwriting files
+- No external dependencies
 
-## 🚀 How to run
+## Run
 
 ```bash
 python main.py
+```
